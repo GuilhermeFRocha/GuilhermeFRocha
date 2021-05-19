@@ -1,25 +1,23 @@
 
-<h1>Hi, I'm Thiago<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
+<h1>Hi, I'm Guilherme<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
 
-I'm a student :green_book: Front-end Developer Html, Css, Javascript and React, 
-I'm from Brasil :brazil:, I'm 34 years old, I love solving problems and making things simpler.
+I'm a student :green_book: Front-end Developer Html, Css, and Javascript, 
+I'm from Brasil :brazil:, I'm 21 years old, I love solving problems and making things simpler.
 
 
-![thiagonmiziara GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFRocha&show_icons=true&theme=tokyonight)
+![GuilhermeFRocha GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFRocha&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFRocha&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/GuilhermeFRocha/github-readme-stats)
 
 <h5>Lenguagues and  Tools :rocket::</h5>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+
 
 
 

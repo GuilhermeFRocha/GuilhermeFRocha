@@ -1,8 +1,19 @@
 
-<h1>Hi, I'm Guilherme<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
+<h1>Olá, me chamo Guilherme!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
 
-I'm a Developer :green_book: Front-end Developer Html, Css, and Javascript, 
-I'm from Brasil :brazil:, I'm 21 years old, I love solving problems and making things simpler.
+Eu sou Desenvolvedor Front-End com 2 anos de experiência sólida no mundo do desenvolvimento web. Durante minha jornada, concentrei-me em aprimorar minhas habilidades e aprofundar meu conhecimento nas mais recentes tecnologias e ferramentas que impulsionam a experiência do usuário na web.
+
+Minhas especialidades incluem:
+
+React: Adoro trabalhar com React para criar interfaces de usuário eficazes e dinâmicas. Tenho experiência em desenvolvimento de componentes reutilizáveis e na gestão do estado da aplicação.
+
+JavaScript/TypeScript: Estas são minhas linguagens de programação preferidas para criar funcionalidades interativas e aprimorar a experiência do usuário. Sou ágil em escrever código limpo e bem documentado.
+
+jQuery: Embora jQuery tenha sido uma ferramenta fundamental no desenvolvimento web, mantenho minhas habilidades atualizadas nesta biblioteca.
+
+Next.js: Adoro a eficiência e a facilidade de uso do Next.js para criar aplicativos web escaláveis e de alto desempenho.
+
+Node.js: Como um complemento natural ao meu trabalho Front-End, tenho conhecimento em Node.js para criar servidores e aplicativos do lado do servidor quando necessário.
 
 
 ![GuilhermeFRocha GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFRocha&show_icons=true&theme=tokyonight)
